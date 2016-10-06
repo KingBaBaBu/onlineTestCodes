@@ -1,5 +1,5 @@
-# onlineTestCodes
-Collection of online tests codes
+# onlineTests
+Collection of online tests 
 
 1.	
 Which three statements are true?
